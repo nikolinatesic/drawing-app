@@ -20,7 +20,7 @@ Project that I made to practice HTML, CSS and JS(DOM EventListener). Simple draw
 
 
 
-<!-- GETTING STARTED -->
+
 
 
 
